@@ -2,7 +2,7 @@
 
 🌱 I’m Gokul, a Computer Science Engineering student at National Institue of Technology Calicut (Bachelor of Technology).
 
-🔭 What do I do? Web/App Dev, I work on backend and database systems, making ML and AI models, the general problem solving and most of the computer science stuff(like Crypto, computer architecture etc). Check out my repos and resume to know more about the projects I have worked on.
+🔭 What do I do? Web/App Dev, I work on backend and database systems, making ML and AI models, general problem solving and most computer science stuff (like Crypto, computer architecture, OS etc). Check out my repos and resume to know more about the projects I have worked on.
 
 🌟 Last Summer I spent my time at Goldman Sachs as an Intern.
 
